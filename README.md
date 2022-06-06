@@ -1,4 +1,4 @@
-# Amazon-interview-
+# Amazon-interview-Copy from LinkedIn connect
 My Amazon interview experience 2.
 
 You read it right, I have shared my first amazon interview experience 6 months back, which ended with binary search.
@@ -17,14 +17,16 @@ Now I'm in panic mode(mostly because things are moving much faster than I wanted
 
 I worked on so many food delivery apps before, I felt lucky, gave my design, which is not based on any System Design interview books, straight out of my experience, I felt good. There were some questions based on CAP, sharding, replication.
 
-2. Second Interview(LLD) : Design News Feed System.
+## 2. Second Interview(LLD) : Design News Feed System.
 
 I didn't work on this kind of system before but I think design is straight forward, so gave a design, Database schema, API signatures. I would say this round was not bad. Some questions based on SOLID, Design Patterns.
 
-3. Third Round( DS and Algo):
+## 3. Third Round( DS and Algo):
 
-Question 1, shortest path between two nodes in a binary tree, my mind is already freezing because I already have had two rounds, I was not able to think that much, So I solved with dijkstra's Shortest Path, had to use Adjacency list , priority queue. (Later when my mind cooled down, realised there is a simple solution)
+## Question 1, 
+shortest path between two nodes in a binary tree, my mind is already freezing because I already have had two rounds, I was not able to think that much, So I solved with dijkstra's Shortest Path, had to use Adjacency list , priority queue. (Later when my mind cooled down, realised there is a simple solution)
 
-Question 2, given inorder , post-order lists, construct binary tree, my mind is not working anymore, after few deep breaths, I came up with a solution(these questions are simple if I didn't have two interviews before but you don't always have get ideal environment) After that there were two more LP questions.
+## Question 2, 
+given inorder , post-order lists, construct binary tree, my mind is not working anymore, after few deep breaths, I came up with a solution(these questions are simple if I didn't have two interviews before but you don't always have get ideal environment) After that there were two more LP questions.
 
 I felt relieved. Hope this helps.
