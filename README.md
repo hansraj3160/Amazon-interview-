@@ -13,7 +13,7 @@ So I had my telephonic screening in a week, I had a question which I didn't find
 Now I'm in panic mode(mostly because things are moving much faster than I wanted them to). A week later, the recruiter said "You will have three interviews in single day" I said "Sure"
 
 
-##1. First interview(HLD) : Design Swiggy
+## 1. First interview(HLD) : Design Swiggy
 
 I worked on so many food delivery apps before, I felt lucky, gave my design, which is not based on any System Design interview books, straight out of my experience, I felt good. There were some questions based on CAP, sharding, replication.
 
